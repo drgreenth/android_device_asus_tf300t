@@ -114,3 +114,4 @@ BOARD_HAS_SDCARD_INTERNAL := true
 TARGET_RECOVERY_FSTAB := device/asus/tf300t/ramdisk/fstab.cardhu
 RECOVERY_FSTAB_VERSION := 2
 
+FUSION-OPT := true
